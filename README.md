@@ -31,9 +31,9 @@
     <img src="https://skillicons.dev/icons?i=eclipse,vscode" />
   </a>
 </p>
-    
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=90&section=footer"/>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Zhihang44/Zhihang44/output/snake.svg" alt="Snake animation" />
+    
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=90&section=footer"/>
