@@ -1,16 +1,39 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=90&section=header"/>
 
-<!--
-**Zhihang44/Zhihang44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>                                           🎓💻 Computer Science College Student 🎓💻
+                                                           Recife Brazil         </pre>
+ 
 
-Here are some ideas to get you started:
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:zhihaangg@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/zhihang-lin-8928a0232/)  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/zhihang_/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zhihang44&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Zhihang github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhihang44&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+
+<div align="center">
+ <h1>💻 Tech Stack: </h1>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=Skills+learned+or+in+the+process+of+learning:)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,css,docker,go,git,html,js,postgres,processing,py,react" />
+  </a>
+</p>  
+
+<div align="center">
+ <h1>IDEs: </h1>
+</div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode" />
+  </a>
+</p>
+    
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=90&section=footer"/>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Zhihang44/Zhihang44/output/snake.svg" alt="Snake animation" />
